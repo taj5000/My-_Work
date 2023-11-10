@@ -52,6 +52,14 @@ curl -fsSL https://d2lang.com/install.sh | sh -s --
 
 - In this context **curl** being used to download the contents of a file from the specified URL.
 
+- **-fssl** used to download scripts without showing progress information and to handle various scenarios, such as server errors or redirects.
+
+- https://d2lang.com/install.sh: This is the URL from which the script (install.sh) will be downloaded.
+
+- **sh -s** executes the downloaded script using the Bourne shell (sh).
+
+- This ' -- ' used to signify the end the command line options.
+
 
 
 
@@ -116,10 +124,6 @@ super long shape id here --\
 -\  (Here, I am using this symbol to break the syntax line size without impacting the image).
 
 
-
-
-
-
 3.Repeated Connections:
 
 Repeated connections do not override existing connections. They declare new ones:
@@ -150,7 +154,7 @@ Step Four -> Step One: repeat
 
 This declares the repetition of the process.
 
-
+----------------------------------------------------------------------
 
 
 
@@ -189,6 +193,7 @@ d -> a -> c
 
 
 
+--------------------------------------------------------------------
 
 
 
@@ -230,7 +235,8 @@ apartment.Bedroom.Bathroom -> office.Spare Room.Bathroom: Portal
 
 
 
-    
+                
+—-------------------------------------------------
 
 
 8.Text:
@@ -292,7 +298,7 @@ explanation: |md
                     
 
 
-
+—---------------------------------------------------------------------------------------
 
 
 
