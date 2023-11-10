@@ -116,10 +116,6 @@ super long shape id here --\
 -\  (Here, I am using this symbol to break the syntax line size without impacting the image).
 
 
------------------------------------------------------------------------
-
-
-
 
 
 
@@ -154,7 +150,7 @@ Step Four -> Step One: repeat
 
 This declares the repetition of the process.
 
-----------------------------------------------------------------------
+
 
 
 
@@ -193,7 +189,6 @@ d -> a -> c
 
 
 
---------------------------------------------------------------------
 
 
 
@@ -235,8 +230,7 @@ apartment.Bedroom.Bathroom -> office.Spare Room.Bathroom: Portal
 
 
 
-                
-—-------------------------------------------------
+    
 
 
 8.Text:
@@ -298,7 +292,7 @@ explanation: |md
                     
 
 
-—---------------------------------------------------------------------------------------
+
 
 
 
