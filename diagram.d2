@@ -1,0 +1,18 @@
+Customer: {
+    shape: person
+    width: 130
+  }
+Customer->Corporate: Customer Fill Mandate form
+
+Corporate->Sponsor Bank:Submit Mandate to Sponsor bank
+Sponsor Bank->NPCI:Sponsor bank Submit Mandates image+data to NPCI 
+NPCI->Customer Bank:NPCI sends mandate data to customer bank for verification.
+Customer Bank-> Mandate Registered: Yes {
+    style: {
+      stroke: green
+    }
+  }
+Customer Bank->Mandate fail:No
+
+customer Bank.style.stroke: "#f4a261"
+  

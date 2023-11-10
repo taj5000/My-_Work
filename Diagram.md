@@ -1,20 +1,20 @@
 # <Center> D2 (Declarative Diagram) </Center>
 
 Table of contents:
-- Overview
-- Installation.
-- Shapes
-- Connections
-- Containers
-- Special objects
+1. [Overview](#Overview)
+2. [Installation](#Installation)
+3. [Shapes](#shapes)
+4. [Connections](#connections)
+5. [Containers](#containers)
+6. [Special objects](#special-objects)
 
-   . Text & Code
+  - Text & Code
+  
+  - Icon & Images
 
-   . Icon & Images
+  - SQL Tables
 
-   . SQL Tables
-
-   . UML Classes
+ 
 
 
 ## <Center> Overview  </Center>
@@ -60,7 +60,8 @@ curl -fsSL https://d2lang.com/install.sh | sh -s --
 
 - This ' -- ' used to signify the end the command line options.
 
-![Alt text](D2.png)
+<img src="D2.png" alt="image" width="300" height="60">
+
 
 After successfully installing D2, I installed the **VS Code editor** by using the command:
 
@@ -71,113 +72,172 @@ sudo snap install --classic code
 
 - I can also practice diagrams on the official website of D2lang.com, where there is an option available in the top right corner called Playground.
 
-![Alt text](<D2 N.png>)
+
+<img src="D2 N.png" alt="image" width="300" height="60">
+
+
+Here are some practice diagrams created using the D2 tool in VS Code, which are given below.
+
+## <center> Shapes </center>
+
+D2 provide a list of shapes that we can easily use for diagram creation.
+
+We can declare shapes like so:
+
+```
+imAShape
+im_a_shape
+im a shape
+i'm a shape
+```
+- All of these can be used for defining the shape of any object. However, different formats cannot change the size of the shape.
+
+```
+# notice that one-hyphen is not a connection
+# whereas, `a--shape` would be a connection
+a-shape
+```
+a-shape
+
+<img src="D2 N1.png" alt="image" width="300" height="60">
+
+a -- mango
+
+<img src="D2 N2.png" alt="image" width="300" height="60">
+
+
+- This shows the connection between two shapes.
+
+
+- I can also use semicolons to define multiple shapes on the same line:
+
+```
+SQLite; MySQL
+```
+
+<img src="D2N3.png" alt="image" width="300" height="60">
+
+
+By default, a shape's label is the same as the shape's key. But if we want it to be different, we can assign a new label like so:
+
+```
+pg: PostgreSQL
+```
+By default, a shape's type is rectangle. To specify otherwise, provide the field shape:
+
+```
+Cloud: my cloud
+Cloud.shape: cloud
+```
+Example 1:
+
+```
+cloude:my cloude
+cloude.shape:shape
+```
+
+<img src="D2 N4.png" alt="image" width="300" height="60">
+
+
+Example 2:
+
+```
+person:user
+
+person.shape:person
+```
+
+<img src="D2 N5.png" alt="image" width="300" height="60">
 
 
 
 
+### <Center>Connections </center>
 
-
-
-
-
-
-
-Here is some practice diagrams which is given below:
-
-  x->y:hello world
-
-
-
+~~~
+x->y:hello world
+~~~
 This declares a connection between two shapes , x and y, with the label hello world. 
 
+<img src="D2 N6.png" alt="image" width="300" height="60">
 
 
- Connections:
-There are 4 valid way to define a connections:
+- There are 4 valid way to define a connections:
 
+~~~
 <-> 
 ->
 <-
 - -
-
+~~~
 Example 2.1:
+~~~
 Write replica Canada<-> Write replica Australia
-
-
+~~~
+<img src="D2 N7.png" alt="image" width="300" height="60">
 
 
 This declares the bi-directional relationship between two shapes, replica Canada and Replica Australia.
 
-
-
-
-
 Example 2.2:
+~~~
 Read Replica <- Master
+~~~
+
+<img src="D2 N8.png" alt="image" width="300" height="60">
 
 
 
 Example 2.3:
+~~~
 Lucknow - - Prayagraj
+~~~
+<img src="D2 N9.png" alt="image" width="300" height="60">
 
 
 This declares the relationship between two shapes without any direction.
 
-
-
 Example 2.4:
 
+~~~
 super long shape id here --\
  -> super long shape id even longer here
+~~~
 
+<img src="D2 N10.png" alt="image" width="300" height="60">
 
 
 -\  (Here, I am using this symbol to break the syntax line size without impacting the image).
 
 
-3.Repeated Connections:
+**- Repeated Connections:**
 
 Repeated connections do not override existing connections. They declare new ones:
-
+~~~
 Database -> S3: backup
 Database -> S3
 Database -> S3: backup
+~~~
+<img src="D2 N11.png" alt="image" width="300" height="60">
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-4.Cycles:
-
+- **Cycles:**
+~~~
 Step One -> Step Two -> Step Three -> Step Four
 Step Four -> Step One: repeat
+~~~
+
+<img src="D2 N12.png" alt="image" width="300" height="50">
 
 
+**This declares the repetition of the process.**
 
-This declares the repetition of the process.
+- **Arrowheads:**
 
-----------------------------------------------------------------------
-
-
-
-
-
-
-
-
-5.Arrowheads:
 To override the default arrowhead shape or give a label next to arrowheads, define a special shape on connections named .
 
+
+~~~
 a: United we stand,divided we fall
 b: To thine own self,be true
 c: Learn as if you will live forever, live like you will die tomorrow.
@@ -202,135 +262,114 @@ d: Where there's a will there's a way
 
 
 d -> a -> c
+~~~
 
-
-
---------------------------------------------------------------------
-
-
-
+<img src="D2 N13.png" alt="image" width="300" height="60">
 
 
 
 
-
-
-6. Reference connections:
+- **Reference connections:**
 Reference a connection by specifying the original ID followed by its index.
 
+~~~
 x -> y: hi
 x -> y: hello
-
 
 (x -> y)[0].style.stroke: green
 (x -> y)[1].style.stroke: yellow
 
-           
+ ~~~  
+
+ <img src="D2 N14.png" alt="image" width="300" height="60">
 
 
 
-
-7. Containers:
-
+## Containers:
+~~~
 server
 # Declares a shape inside of another shape
 server.process
+~~~
+<img src="D2 N15.png" alt="image" width="300" height="60">
 
 
+
+~~~
 # Can declare the container and child in same line
 im a parent.im a child
 
 
+im a parent.im a child
+
 # Since connections can also declare keys, this works too
 apartment.Bedroom.Bathroom -> office.Spare Room.Bathroom: Portal
+~~~
+
+<img src="D2 N16.png" alt="image" width="300" height="60">
 
 
 
+### Special Objects
 
-                
-—-------------------------------------------------
+Standalone text is Markdown.
 
-
-8.Text:
-
-Text in markdown
-
+~~~
 Example:
 explanation: |md
  # I can do headers
  - lists
  - lists
 
+etc......
+~~~
 
- etc......
+<img src="D2 N17.png" alt="image" width="300" height="60">
 
-              
+            
 
-
-
-
-
-
-
-If I add two ## or three ### ,the header size will change:
-
-explanation: |md
- ## I can do headers
- - lists
- - lists
-
-
- etc......
-
-                    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-explanation: |md
- #### I can do headers
- - lists
- - lists
-
-
- etc......
-
-                    
-
-
-—---------------------------------------------------------------------------------------
-
-
-
-
-
-
-
-
-
-
-
-9. Latex:
+- **Latex:**
 
 Latex or tex to specify a Latex language block.
-
+~~~
 plankton -> formula: will steal
 formula: {
  equation: |latex
    \\lim_{h \\rightarrow 0 } \\frac{f(x+h)-f(x)}{h}
  |
 }
+~~~
+<img src="D2 N18.png" alt="image" width="300" height="60">
 
-                          
+
+- Icon or Images
+
+Here we can use any url as value.
+
+~~~
+Github: {
+    icon: https://icons.terrastruct.com/dev/github.svg
+  
+}
+~~~
+<img src="D2 N19.png" alt="image" width="300" height="60">
+
+
+- **SQL Tables:**
+
+Here, I can easily diagram entity-relationship diagrams (ERDs) in D2 by using the sql_table shape. Here's a minimal example:
+
+~~~
+my_table: {
+  shape: sql_table
+  # This is defined using the shorthand syntax for labels discussed in the containers section.
+  # But here it's for the type of a constraint.
+  # The id field becomes a map that looks like {type: int; constraint: primary_key}
+  id: int {constraint: primary_key}
+  last_updated: timestamp with time zone
+}
+~~~
+<img src="D2 N20.png" alt="image" width="300" height="60">
+
+
+              
