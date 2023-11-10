@@ -281,7 +281,7 @@ x -> y: hello
 
  ~~~  
 
- <img src="D2 N14.png" alt="image" width="300" height="60">
+ <img src="D2 N14.png" alt="image" width="100" height="60">
 
 
 
@@ -291,7 +291,7 @@ server
 # Declares a shape inside of another shape
 server.process
 ~~~
-<img src="D2 N15.png" alt="image" width="300" height="60">
+<img src="D2 N15.png" alt="image" width="80" height="60">
 
 
 
@@ -306,7 +306,7 @@ im a parent.im a child
 apartment.Bedroom.Bathroom -> office.Spare Room.Bathroom: Portal
 ~~~
 
-<img src="D2 N16.png" alt="image" width="300" height="60">
+<img src="D2 N16.png" alt="image" width="80" height="60">
 
 
 
@@ -339,7 +339,7 @@ formula: {
  |
 }
 ~~~
-<img src="D2 N18.png" alt="image" width="300" height="60">
+<img src="D2 N18.png" alt="image" width="100" height="60">
 
 
 - Icon or Images
@@ -352,7 +352,7 @@ Github: {
   
 }
 ~~~
-<img src="D2 N19.png" alt="image" width="300" height="60">
+<img src="D2 N19.png" alt="image" width="80" height="60">
 
 
 - **SQL Tables:**
@@ -369,7 +369,7 @@ my_table: {
   last_updated: timestamp with time zone
 }
 ~~~
-<img src="D2 N20.png" alt="image" width="300" height="60">
+<img src="D2 N20.png" alt="image" width="100" height="60">
 
 
               
