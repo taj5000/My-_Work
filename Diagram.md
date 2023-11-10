@@ -60,6 +60,18 @@ curl -fsSL https://d2lang.com/install.sh | sh -s --
 
 - This ' -- ' used to signify the end the command line options.
 
+![Alt text](D2.png)
+
+After successfully installing D2, I installed the **VS Code editor** by using the command:
+
+```
+sudo snap install --classic code
+```
+- After installing VS Code, I installed the D2 extension, and then create a file using the extension '.d2', for example, 'Diagram.d2'.
+
+- I can also practice diagrams on the official website of D2lang.com, where there is an option available in the top right corner called Playground.
+
+![Alt text](<D2 N.png>)
 
 
 
