@@ -99,12 +99,15 @@ i'm a shape
 # whereas, `a--shape` would be a connection
 a-shape
 ```
+~~~
 a-shape
+~~~
 
 ![Alt text](<D2 N1.png>)
 
-
+~~~
 a -- mango
+~~~
 
 ![Alt text](<D2 N2.png>)
 
