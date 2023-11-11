@@ -63,7 +63,7 @@ curl -fsSL https://d2lang.com/install.sh | sh -s --
 
 - This ' -- ' used to signify the end the command line options.
 
-<img src="D2.png" alt="image" width="500" height="110">
+![Alt text](<D2.png>)
 
 
 After successfully installing D2, I installed the **VS Code editor** by using the command:
@@ -75,8 +75,7 @@ sudo snap install --classic code
 
 - I can also practice diagrams on the official website of D2lang.com, where there is an option available in the top right corner called Playground.
 
-
-<Center><img src="D2 N.png" alt="image" width="300" height="60"></Center>
+![Alt text](<D2 N.png>)
 
 
 Here are some practice diagrams created using the D2 tool in VS Code, which are given below.
@@ -102,11 +101,12 @@ a-shape
 ```
 a-shape
 
-<img src="D2 N1.png" alt="image" width="300" height="60">
+![Alt text](<D2 N1.png>)
+
 
 a -- mango
 
-<img src="D2 N2.png" alt="image" width="300" height="60">
+![Alt text](<D2 N2.png>)
 
 
 - This shows the connection between two shapes.
@@ -117,8 +117,7 @@ a -- mango
 ```
 SQLite; MySQL
 ```
-
-<img src="D2N3.png" alt="image" width="300" height="60">
+![Alt text](<D2N3.png>)
 
 
 By default, a shape's label is the same as the shape's key. But if we want it to be different, we can assign a new label like so:
@@ -139,7 +138,8 @@ cloude:my cloude
 cloude.shape:shape
 ```
 
-<img src="D2 N4.png" alt="image" width="300" height="60">
+![Alt text](<D2 N4.png>)
+
 
 
 Example 2:
@@ -149,8 +149,8 @@ person:user
 
 person.shape:person
 ```
+![Alt text](<D2 N5.png>)
 
-<img src="D2 N5.png" alt="image" width="300" height="60">
 
 
 
@@ -162,7 +162,8 @@ x->y:hello world
 ~~~
 This declares a connection between two shapes , x and y, with the label hello world. 
 
-<img src="D2 N6.png" alt="image" width="300" height="60">
+![Alt text](<D2 N6.png>)
+
 
 
 - There are 4 valid way to define a connections:
@@ -177,7 +178,9 @@ Example 2.1:
 ~~~
 Write replica Canada<-> Write replica Australia
 ~~~
-<img src="D2 N7.png" alt="image" width="300" height="60">
+
+![Alt text](<D2 N7.png>)
+
 
 
 This declares the bi-directional relationship between two shapes, replica Canada and Replica Australia.
