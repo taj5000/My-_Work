@@ -14,6 +14,8 @@ Table of contents:
 
   - SQL Tables
 
+  - UML Classes
+
  
 
 
@@ -371,5 +373,22 @@ my_table: {
 ~~~
 <img src="D2 N20.png" alt="image" width="100" height="60">
 
+- **UML Classes:**
+  D2 fully supoorts UML class diagrams,Here's a example:
 
+~~~
+MyClass: {
+  shape: class
+
+  field: "[]string"
+  method(a uint64): (x, y int)
+}
+~~~
+![Alt text](<D2 N21.png>)
+
+
+
+
+
+  
               
