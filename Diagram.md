@@ -60,7 +60,7 @@ curl -fsSL https://d2lang.com/install.sh | sh -s --
 
 - This ' -- ' used to signify the end the command line options.
 
-<img src="D2.png" alt="image" width="300" height="60">
+<img src="D2.png" alt="image" width="500" height="110">
 
 
 After successfully installing D2, I installed the **VS Code editor** by using the command:
