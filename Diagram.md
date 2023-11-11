@@ -189,16 +189,16 @@ Example 2.2:
 ~~~
 Read Replica <- Master
 ~~~
-
-<img src="D2 N8.png" alt="image" width="300" height="60">
-
+![Alt text](<D2 N8.png>)
 
 
 Example 2.3:
 ~~~
 Lucknow - - Prayagraj
 ~~~
-<img src="D2 N9.png" alt="image" width="300" height="60">
+
+![Alt text](<D2 N9.png>)
+
 
 
 This declares the relationship between two shapes without any direction.
@@ -209,8 +209,8 @@ Example 2.4:
 super long shape id here --\
  -> super long shape id even longer here
 ~~~
+![Alt text](<D2 N10.png>)
 
-<img src="D2 N10.png" alt="image" width="300" height="60">
 
 
 -\  (Here, I am using this symbol to break the syntax line size without impacting the image).
@@ -224,7 +224,9 @@ Database -> S3: backup
 Database -> S3
 Database -> S3: backup
 ~~~
-<img src="D2 N11.png" alt="image" width="300" height="60">
+
+![Alt text](<D2 N11.png>)
+
 
 
 - **Cycles:**
@@ -232,8 +234,8 @@ Database -> S3: backup
 Step One -> Step Two -> Step Three -> Step Four
 Step Four -> Step One: repeat
 ~~~
+![Alt text](<D2 N12.png>)
 
-<img src="D2 N12.png" alt="image" width="300" height="50">
 
 
 **This declares the repetition of the process.**
@@ -269,8 +271,8 @@ d: Where there's a will there's a way
 
 d -> a -> c
 ~~~
+![Alt text](<D2 N13.png>)
 
-<img src="D2 N13.png" alt="image" width="300" height="60">
 
 
 
@@ -286,8 +288,8 @@ x -> y: hello
 (x -> y)[1].style.stroke: yellow
 
  ~~~  
+![Alt text](<D2 N14.png>)
 
- <img src="D2 N14.png" alt="image" width="100" height="60">
 
 
 
@@ -297,7 +299,9 @@ server
 # Declares a shape inside of another shape
 server.process
 ~~~
-<img src="D2 N15.png" alt="image" width="80" height="60">
+
+![Alt text](<D2 N15.png>)
+
 
 
 
@@ -312,7 +316,7 @@ im a parent.im a child
 apartment.Bedroom.Bathroom -> office.Spare Room.Bathroom: Portal
 ~~~
 
-<img src="D2 N16.png" alt="image" width="80" height="60">
+![Alt text](<D2 N16.png>)
 
 
 
@@ -329,8 +333,8 @@ explanation: |md
 
 etc......
 ~~~
+![Alt text](<D2 N17.png>)
 
-<img src="D2 N17.png" alt="image" width="300" height="60">
 
             
 
@@ -345,7 +349,9 @@ formula: {
  |
 }
 ~~~
-<img src="D2 N18.png" alt="image" width="100" height="60">
+
+![Alt text](<D2 N18.png>)
+
 
 
 - Icon or Images
@@ -358,7 +364,9 @@ Github: {
   
 }
 ~~~
-<img src="D2 N19.png" alt="image" width="80" height="60">
+
+![Alt text](<D2 N19.png>)
+
 
 
 - **SQL Tables:**
@@ -375,7 +383,9 @@ my_table: {
   last_updated: timestamp with time zone
 }
 ~~~
-<img src="D2 N20.png" alt="image" width="100" height="60">
+
+![Alt text](<D2 N20.png>)
+
 
 - **UML Classes:**
   D2 fully supoorts UML class diagrams,Here's a example:
