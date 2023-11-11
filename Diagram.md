@@ -15,7 +15,7 @@ Table of contents:
   - SQL Tables
 
   - UML Classes
-  - 
+  - Sequence Diagram.
 
  
 
