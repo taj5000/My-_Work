@@ -426,7 +426,7 @@ bob -> alice: The ability to play bridge or\ngolf as if they were games.
 **Rules**-
 There is no special syntax to learn for sequence diagrams. The rules are also almost exactly the same as everywhere else in D2, with two notable differences.
 
-**Scooping**
+- **Scooping**
 
 Children of sequence diagrams share the same scope throughout the sequence diagram.
 
@@ -452,3 +452,22 @@ Office chatter: {
 
 Outside of a sequence diagram, there would be multiple instances of alice and bob, since they have different container scopes. But when nested under shape: sequence_diagram, they refer to the same alice and bob.
               
+- **Ordering**:
+Elsewhere in D2, there is no notion of order. If we define a connection after another, there is no guarantee is will visually appear after. However, in sequence diagrams, order matters. The order in which we define everything is the order they will appear
+
+This includes actors. We don't have to explicitly define actors (except when they first appear in a group), but if we want to define a specific order, you should.
+~~~
+shape: sequence_diagram
+# Remember that semicolons allow multiple objects to be defined in one line
+# Actors will appear from left-to-right as a, b, c, d...
+a; b; c; d
+# ... even if the connections are in a different order
+c -> d
+d -> a
+b -> d
+~~~
+![Alt text](<D2 N24.png>)
+
+
+
+
