@@ -15,6 +15,7 @@ Table of contents:
   - SQL Tables
 
   - UML Classes
+  - 
 
  
 
@@ -386,9 +387,52 @@ MyClass: {
 ~~~
 ![Alt text](<D2 N21.png>)
 
+- Each key of a class shape defines either a field or a method.
+
+- The value of a field key is its type.
+
+- Any key that contains ( is a method, whose value is the return type.
+
+- A method key without a value has a return type of void.
 
 
+- **Sequence Diagrams:**
 
+  Sequence diagrams are created by setting shape: sequence_diagram on an object.
+~~~
+shape: sequence_diagram
+alice -> bob: What does it mean\nto be well-adjusted?
+bob -> alice: The ability to play bridge or\ngolf as if they were games.
+~~~
 
-  
+![Alt text](<D2 N22.png>)
+
+**Rules**-
+There is no special syntax to learn for sequence diagrams. The rules are also almost exactly the same as everywhere else in D2, with two notable differences.
+
+**Scooping**
+
+Children of sequence diagrams share the same scope throughout the sequence diagram.
+
+~~~
+Office chatter: {
+  shape: sequence_diagram
+  alice: Alice
+  bob: Bobby
+  awkward small talk: {
+    alice -> bob: uhm, hi
+    bob -> alice: oh, hello
+    icebreaker attempt: {
+      alice -> bob: what did you have for lunch?
+    }
+    unfortunate outcome: {
+      bob -> alice: that's personal
+    }
+  }
+}
+~~~
+
+![Alt text](<D2 N23.png>)
+
+Outside of a sequence diagram, there would be multiple instances of alice and bob, since they have different container scopes. But when nested under shape: sequence_diagram, they refer to the same alice and bob.
               
