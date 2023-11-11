@@ -73,7 +73,7 @@ sudo snap install --classic code
 - I can also practice diagrams on the official website of D2lang.com, where there is an option available in the top right corner called Playground.
 
 
-<img src="D2 N.png" alt="image" width="300" height="60">
+<Center><img src="D2 N.png" alt="image" width="300" height="60"></Center>
 
 
 Here are some practice diagrams created using the D2 tool in VS Code, which are given below.
