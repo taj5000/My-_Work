@@ -76,6 +76,7 @@ sudo snap install --classic code
 - I can also practice diagrams on the official website of D2lang.com, where there is an option available in the top right corner called Playground.
 
 
+
 ![Alt text](<D2 N.png>)
 
 
