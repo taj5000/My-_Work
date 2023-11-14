@@ -2,10 +2,10 @@
 
 ### Table of content
 
-1. [Payment Bank](#Payment Bank)
-3. [Fino Bank](#Fino Bank).
-4. [Services By FINO](#Services by Fino)
-5. [Aadhar Seeding](#Aadhar Seeding) 
+1. [Payment Bank]_(#Payment Bank)
+3. [Fino Bank]_(#Fino Bank).
+4. [Services By FINO]_(#Services by Fino)
+5. [Aadhar Seeding]_(#Aadhar Seeding) 
 6. [NACH](#NACH)
 7. [eNACH](#eNACH)
 
