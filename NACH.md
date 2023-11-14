@@ -1,4 +1,6 @@
+# Payments Bank
 
+###Table of content
 
 ### Q.1 What is Aadhar seeding?
 Aadhaar seeding is necessitated for receiving Direct Benefit Transfers (DBT) provided by various Government. Aadhar seeding is a process of linking any customer's 12 digit aadhar number with their bank account.The following is the process flow of Aadhaar seeding:
