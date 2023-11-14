@@ -93,7 +93,7 @@ National Automated Clearing House (NACH) is a platform created by the National P
 
 - If the customer’s bank mandate registration fails due to any false information, the customer’s bank redirects the information to NPCI, which then  redirects this information to sponsored bank. The sponsored bank subsequently redirects this information to the corporate.
 
-Diagram:
+**Diagram:**
 
 ![Alt text](<NACH D2.png>)
 
