@@ -45,17 +45,17 @@ taken and CBS also should be updated accordingly.
 
 5. Customer query / complaint handling.
    
-6.1- Branches should understand that if Aadhaar number is not updated in NPCI mapper the action
+5.1- Branches should understand that if Aadhaar number is not updated in NPCI mapper the action
 is purely lies with the bank only. The customer should not be told that NPCI has not updated the
 Aadhaar number.
 
-6.2- Aadhaar number being active in bank’s CBS does not mean that mapper file is updated, the
+5.2- Aadhaar number being active in bank’s CBS does not mean that mapper file is updated, the
 branch should not show CBS screen or provide screen shot to the customer confirming seeding.
 
-6.3- If the customer complaints, the branch should approach their internal team handling Aadhaar
+5.3- If the customer complaints, the branch should approach their internal team handling Aadhaar
 mapping and ascertain the reason for non-updating the Aadhaar in NPCI mapper.
 
-6.4- After ascertaining the root cause bank should take corrective action and redress the grievance
+5.4- After ascertaining the root cause bank should take corrective action and redress the grievance
 of the customer.
 
 
