@@ -4,17 +4,19 @@
 Aadhaar seeding is necessitated for receiving Direct Benefit Transfers (DBT) provided by various Government. Aadhar seeding is a process of linking any customer's 12 digit aadhar number with their bank account.The following is the process flow of Aadhaar seeding:
 
 **1. Customer to visit the bank branch where he / she is holding an account and submit the duly filled
-consent form – Annexure I
+consent form – Annexure I**
 
-2. The bank officials after verifying the details and documents provided (as may be required) and
+**2. The bank officials after verifying the details and documents provided (as may be required) and
 authenticity of the customer based on the signature will accept Aadhaar seeding consent form and
-provide an acknowledgement to the customer.
+provide an acknowledgement to the customer.**
 
-3. The branch will then link the Aadhaar number to the customer’s account and also in NPCI mapper.
+**3. The branch will then link the Aadhaar number to the customer’s account and also in NPCI mapper.**
 
-4. Once this activity is completed and Aadhaar number will reflect in NPCI mapper.
-**
-**Role of the customer:**
+**4. Once this activity is completed and Aadhaar number will reflect in NPCI mapper.**
+
+
+#### Role of the customer:
+
 1. Submit the consent form with complete details either in physical or electronic form as per the facility
 provided by his / her bank.
 
@@ -24,7 +26,7 @@ name of the bank from which the Aadhaar is being moved.
 3. In case of physical form, the consent form should be duly signed as per the bank records.
 
 
-**Role of the Bank / Branch:**
+#### Role of the Bank / Branch:
 
 1. Verifying the completeness of the consent form, checking the documentation and authenticating the
 customer’s signature.
@@ -46,14 +48,17 @@ taken and CBS also should be updated accordingly.
 6.1- Branches should understand that if Aadhaar number is not updated in NPCI mapper the action
 is purely lies with the bank only. The customer should not be told that NPCI has not updated the
 Aadhaar number.
+
 6.2- Aadhaar number being active in bank’s CBS does not mean that mapper file is updated, the
 branch should not show CBS screen or provide screen shot to the customer confirming seeding.
+
 6.3- If the customer complaints, the branch should approach their internal team handling Aadhaar
 mapping and ascertain the reason for non-updating the Aadhaar in NPCI mapper.
+
 6.4- After ascertaining the root cause bank should take corrective action and redress the grievance
 of the customer.
 
-**Role of the Bank / Branch:**
+
 
 ### Q.2 How many days will it take for Aadhar-based e-Mandate to be processed?
 It will take 2-3 days for Aadhar-based e-Mandate to be processed.
