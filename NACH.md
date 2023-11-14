@@ -95,7 +95,9 @@ National Automated Clearing House (NACH) is a platform created by the National P
 
 Diagram:
 
-<img src="NACH1.png" alt="image" width="300" height="100">
+![Alt text](<NACH D2.png>)
+
+ 
 
 **eNACH**
 e-NACH stands for Electronic National Automated Clearing House.
