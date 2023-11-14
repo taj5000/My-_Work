@@ -98,17 +98,15 @@ of the customer.
 
 
 
-### Q.2 How many days will it take for Aadhar-based e-Mandate to be processed?
+### How many days will it take for Aadhar-based e-Mandate to be processed?
 It will take 2-3 days for Aadhar-based e-Mandate to be processed.
 
 Link: 
 https://signdesk.com/in/emandate/api-mandate-vs-esign-mandate#
 
 
-### Q.3 Does the bank send the e-Mandate on the same day?
-Yes, the bank sends it on the same day, but in the evening along with all the other applications.
 
-### Q.4 What is NACH?
+### What is NACH?
 National Automated Clearing House (NACH) is a platform created by the National Payments Corporation of India (NPCI) to facilitate fund clearing. NACH Credit and NACH Debit provide interbank high volume, high or low-value credit/debit bulk transactions that are recurring/repetitive through the electronic NPCI service. For example, if I make a purchase and every month an EMI amount gets auto-debited from your bank account. 
 
 **Process:**
@@ -142,6 +140,8 @@ e-NACH stands for Electronic National Automated Clearing House.
 
 It's a new and easier way to automate and handle all recurring payments like telephone bills, insurance premiums, utility bills, SIPs, school fees etc with a bank account.
 
+### Does the bank send the e-Mandate on the same day?
+Yes, the bank sends it on the same day, but in the evening along with all the other applications.
 
 *
 
