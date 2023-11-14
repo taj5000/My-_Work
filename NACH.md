@@ -4,8 +4,8 @@
 
 1. [Payment Bank](#Payment Bank).
 2. [Fino Bank](#Fino Bank).
-3. [Services By FINO](#Services by Fino).
-4. [Aadhar Seeding](#Aadhar Seeding). 
+3. [Services By FINO](#Services by Fino)
+4. [Aadhar Seeding](#Aadhar Seeding) 
 5. [NACH](#NACH)
 6. [eNACH](#eNACH)
 
