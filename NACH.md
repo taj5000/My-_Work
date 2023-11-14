@@ -38,7 +38,7 @@ Both current account and savings accounts can be operated by such banks. Payment
  8. Refferal Lending.
 
     
-### Q.1 What is Aadhar seeding?
+### Aadhar seeding?
 Aadhaar seeding is necessitated for receiving Direct Benefit Transfers (DBT) provided by various Government. Aadhar seeding is a process of linking any customer's 12 digit aadhar number with their bank account.The following is the process flow of Aadhaar seeding:
 
 **1. Customer to visit the bank branch where he / she is holding an account and submit the duly filled
