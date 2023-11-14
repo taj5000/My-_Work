@@ -9,6 +9,35 @@
 6. [NACH](#NACH)
 7. [eNACH](#eNACH)
 
+## Payment Banks
+Payments banks are a new model of banks, conceptualised by the Reserve Bank of India (RBI), which cannot issue credit. These banks can accept a restricted deposit, which is currently limited to ₹200,000 per customer and may be increased further.These banks cannot issue loans and credit cards.
+
+Both current account and savings accounts can be operated by such banks. Payments banks can issue ATM cards or debit cards and provide online or mobile banking. 
+**Bharti Airtel set up India's first payments bank, Airtel Payments Bank.**
+
+**- Right now in india only 6 Payments banks are available:**
+- Airtel Payments Bank
+- Jio Payments Bank
+- Paytm Payments Bank
+- NSDL Payments Bank
+- India Post Payments Bank
+- FINO Payments bank
+
+ ## FINO Payment Bank
+ FINO is a technology based company that provides financial inclusion services to the underpriviledge sections of security . The comapny was established in 2006 as a part of the government of India's initiative to promote financial inclusion in the country. 
+
+ ## Services provided by FINO
+ Fino provides verious services.These are as follows:
+ 1. FINO Pay savings
+ 2. Savings A/C
+ 3. Current A/C
+ 4. Debit Cards
+ 5. Payments
+ 6. Insurance
+ 7. Fino Pay
+ 8. Refferal Lending.
+
+    
 ### Q.1 What is Aadhar seeding?
 Aadhaar seeding is necessitated for receiving Direct Benefit Transfers (DBT) provided by various Government. Aadhar seeding is a process of linking any customer's 12 digit aadhar number with their bank account.The following is the process flow of Aadhaar seeding:
 
