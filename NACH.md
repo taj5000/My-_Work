@@ -1,6 +1,13 @@
 # Payments Bank
 
-###Table of content
+### Table of content
+
+1. [Payment Bank](#Payment Bank).
+2. [Fino Bank](#Fino Bank).
+3. [Services By FINO](#Services by Fino).
+4. [Aadhar Seeding](#Aadhar Seeding). 
+5. [NACH](#NACH)
+6. [eNACH](#eNACH)
 
 ### Q.1 What is Aadhar seeding?
 Aadhaar seeding is necessitated for receiving Direct Benefit Transfers (DBT) provided by various Government. Aadhar seeding is a process of linking any customer's 12 digit aadhar number with their bank account.The following is the process flow of Aadhaar seeding:
