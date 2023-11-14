@@ -1,12 +1,22 @@
-# NACH Process 
+# Adhar based mandate
 
-**NACH:**
+### Q.1 What is Aadhar seeding?
+Aadhaar seeding is necessitated for receiving Direct Benefit Transfers (DBT) provided by various Government. Aadhar seeding is a process of linking any customer's 12 digit aadhar number with their bank account.
 
-In 2016 ,National Payments Corporation of India launched the National Automated Clearing house(NACH) service as a centralised system to enable automated clearing of inter-bank ,high volume electronic transactions.
+### Q.2 How many days will it take for Aadhar-based e-Mandate to be processed?
+It will take 2-3 days for Aadhar-based e-Mandate to be processed.
+
+Link: 
+https://signdesk.com/in/emandate/api-mandate-vs-esign-mandate#
 
 
+### Q.3 Does the bank send the e-Mandate on the same day?
+Yes, the bank sends it on the same day, but in the evening along with all the other applications.
 
-**Process:**
+### Q.4 What is NACH?
+National Automated Clearing House (NACH) is a platform created by the National Payments Corporation of India (NPCI) to facilitate fund clearing. NACH Credit and NACH Debit provide interbank high volume, high or low-value credit/debit bulk transactions that are recurring/repetitive through the electronic NPCI service. For example, if I make a purchase and every month an EMI amount gets auto-debited from your bank account. 
+
+*Process:**
 
 - Companies provide NACH mandate forms to customers to get their consent for debiting their account at a certain frequency for a certain period of time.
 
@@ -29,4 +39,12 @@ In 2016 ,National Payments Corporation of India launched the National Automated 
 Diagram:
 
 <img src="NACH1.png" alt="image" width="300" height="100">
+
+**eNACH**
+e-NACH stands for Electronic National Automated Clearing House.
+
+It's a new and easier way to automate and handle all recurring payments like telephone bills, insurance premiums, utility bills, SIPs, school fees etc with a bank account.
+
+
+*
 
