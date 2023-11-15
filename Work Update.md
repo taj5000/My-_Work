@@ -88,7 +88,7 @@ eMandate is a digital payment service initiated by the Reserve Bank of India (RB
 
  FINO Payments Bank Limited has commenced operations as a payments bank with effect from June 30, 2017. The Reserve Bank has issued a licence to the bank under Section 22 (1) of the Banking Regulation Act, 1949 to carry on the business of payments banks in India.
 
-Link: Link of the document
+Link:Link of the document
 
 Current CEO : Rishi Gupta
 
