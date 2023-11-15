@@ -159,149 +159,178 @@ Make Digital Payments using scan and pay.
 - Free SMS alerts.
 
 
+### Savings Accounts
 
 
-Savings Accounts
-
-
-FinoPay Savings Account:
+**FinoPay Savings Account:**
 FinoPay Digital Savings Account brings you great benefits and features to help you save and grow your money. 
 
 
+**Shubh Savings Account:**
+- The account comes with a free Platinum/Classic RuPay Debit card and no commitment to maintain any minimum monthly average balance, all at a nominal annual subscription charges.
 
+- This saving account gives us the facility of Deposit, withdraw, transfer/receive funds, shop, pay bills and do much more and we receive free SMS alerts for each transaction.
 
-Shubh Savings Account:
-The account comes with a free Platinum/Classic RuPay Debit card and no commitment to maintain any minimum monthly average balance, all at a nominal annual subscription charges. Deposit, withdraw, transfer/receive funds, shop, pay bills and do much more with your account without any hassles across India and receive free SMS alerts for each transaction.
+**KEY FEATURES**
 
+1. Monthly average balance requirement: Nil
 
-
-
-
-KEY FEATURES
-Monthly average balance requirement: Nil
-Rate of Interest: Earn up to 7.50%# p.a. by opting for Sweep account facility
+2. Rate of Interest: Earn up to 7.50%# p.a. by opting for Sweep account facility
 Sweep account facility with partner bank for balances over two lakh rupees.
-Free RuPay Platinum/Classic Debit Card loaded with exciting offers and benefits.
-Accidental insurance/permanent disabilityy cover of upto Rs.2 Lakhs linked with Rupay Platinum Debit Card.
-Aadhaar seeding facility to receive LPG subsidy and other benefits directly in your account.
-Mobile banking access to conveniently manage the account, anywhere and anytime.
-Upto 5 free ATM transactions in a month*.
-Free cash deposit limit upto Rs.50,000 per month.
-Free cash withdrawal at Fino Bank branches.
-Free SMS alerts.
+
+3. Free RuPay Platinum/Classic Debit Card loaded with exciting offers and benefits.
+   
+4. Accidental insurance/permanent disabilityy cover of upto Rs.2 Lakhs linked with Rupay Platinum Debit Card.
+   
+5. Aadhaar seeding facility to receive LPG subsidy and other benefits directly in your account.
+
+6. Mobile banking access to conveniently manage the account, anywhere and anytime.
+   
+7. Upto 5 free ATM transactions in a month.
+   
+8. Free cash deposit limit upto Rs.50,000 per month.
+   
+9. Free cash withdrawal at Fino Bank branches.
+10. Free SMS alerts.
+
+**Annual subscription charges for the account: Rs.449 (inclusive of GST)**
 
 
+**Pratham Savings Account**
 
-Annual subscription charges for the account: Rs.449 (inclusive of GST)
+Pratham Savings Account is designed to meet all our banking needs without the need to maintain high balances in your account. You can access your account anytime, anywhere through our mobile banking application FinoPay and also get access to 54 branches 143 customer service points and Fino’s banking outlets across 94% of India’s districts.
 
-Pratham Savings Account
-
-Pratham Savings Account is designed to meet all your banking needs without the need to maintain high balances in your account. You can access your account anytime, anywhere through our mobile banking application FinoPay and also get access to 54 branches 143 customer service points and Fino’s banking outlets across 94% of India’s districts.
 Eligibility: Any resident Indian individual above 18 years of age.
 
-KEY FEATURES
-Instant account opening
-Instant debit card activation
-Low monthly average balance requirement of Rs.1000
-Aadhaar seeding facility to receive government subsidies (DBT benefits) linked with Aadhaar
+**KEY FEATURES**
+- Instant account opening
+   
+-  Instant debit card activation
+ 
+- Low monthly average balance requirement of Rs.1000
+ 
+- Aadhaar seeding facility to receive government subsidies (DBT benefits) linked with Aadhaar
 Sweep account facility with a potential to earn interest up to 7.50%# p.a. on daily end of day balances
-Get best in class Classic/Platinum RuPay debit card with your account. Also, there is insurance cover of up to Rs.2 Lakh in case of death/permanent disability due to accident linked with Rupay Platinum debit card. Terms and conditions apply
-Access ATMs all over India with up to five free transactions per month*
-Instant fund transfer facility through IMPS at nominal charges to any bank account in India
-Access your account anytime and anywhere through mobile banking application, FinoPay and internet banking
-Free monthly e-mail statements
-SMS alerts to track account activity.
 
-* First 3 ATM transactions free in Metro locations (Mumbai, Delhi, Bangalore, Chennai, Kolkata and Hyderabad) and first 5 ATM transactions free in other locations
-#Interest on balances in Savings Bank Account with Fino Payments Bank up to INR 2 Lakhs is 2.75% p.a. with effect from 01st May 2021.
+- Get best in class Classic/Platinum RuPay debit card with your account. Also, there is insurance cover of up to Rs.2 Lakh in case of death/permanent disability due to accident linked with Rupay Platinum debit card. Terms and conditions apply.
+- Access ATMs all over India with up to five free transactions per month*
+
+- Instant fund transfer facility through IMPS at nominal charges to any bank account in India
+Access your account anytime and anywhere through mobile banking application, FinoPay and internet banking.
+
+- Free monthly e-mail statements.
+- SMS alerts to track account activity.
+
+- * First 3 ATM transactions free in Metro locations (Mumbai, Delhi, Bangalore, Chennai, Kolkata and Hyderabad) and first 5 ATM transactions free in other locations.
+
+- Interest on balances in Savings Bank Account with Fino Payments Bank up to INR 2 Lakhs is 2.75% p.a. with effect from 01st May 2021.
 
 
 
 
 
-Saral Salary Account
+**Saral Salary Account**
 
 Salary Account offers organisations a seamless and convenient way to process the salaries of their employees. 
-The benefits of the account include no requirement of maintaining minimum balance in the account, mobile banking application (FinoPay) to access account 24*7 and a best-in-class debit card with a wide range of offers to help increase savings.
 
-Note: To open a salary account, the corporate must be registered with Fino Payments Bank for a salary relationship.
+**The benefits of the account include no requirement of maintaining minimum balance in the account**, mobile banking application (FinoPay) to access account 24*7 and a best-in-class debit card with a wide range of offers to help increase savings.
+
+>> Note: To open a salary account, the corporate must be registered with Fino Payments Bank for a salary relationship.
+
 Eligibility: Any resident Indian individual above 18 years of age
 
-KEY FEATURES
-Instant account opening
-Simplified process to credit salaries
-Instant debit card activation
-Zero balance account
-Sweep account facility with a potential to earn interest up to 7.50% p.a. on daily end of day balances
-Aadhaar seeding facility to receive government subsidies (DBT benefits) linked with Aadhaar
-Get the best Platinum RuPay Debit card with your account. Also, there is insurance cover of up to Rs.2 Lakh in case of death/permanent disability due to accident linked with Rupay Platinum Debit Card. Terms and conditions apply
-Access ATMs all over India with up to Six free transactions per month*
-Instant fund transfer facility through IMPS at nominal cost to any bank account in India
-Access your account anytime and anywhere through mobile banking application, FinoPay and internet banking
-Free monthly e-mail statements
-SMS alerts to track account activity
+**KEY FEATURES**
+- Instant account opening
+- Simplified process to credit salaries
+- Instant debit card activation
+- Zero balance account
+- Sweep account facility with a potential to earn interest up to 7.50% p.a. on daily end of day balances
+- Aadhaar seeding facility to receive government subsidies (DBT benefits) linked with Aadhaar
+Get the best Platinum RuPay Debit card with your account. Also, there is insurance cover of up to Rs.2 Lakh in case of death/permanent disability due to accident linked with Rupay Platinum Debit Card. Terms and conditions apply.
 
-Aarambh Savings Account
+- Access ATMs all over India with up to Six free transactions per month.
+- Instant fund transfer facility through IMPS at nominal cost to any bank account in India
+Access your account anytime and anywhere through mobile banking application, FinoPay and internet banking.
+- Free monthly e-mail statements.
+- SMS alerts to track account activity.
 
-Ab Fino se karein apni banking yatra ka AARAMBH!!!!
-Fino Payments Bank Aarambh Savings account has been designed to bring affordable banking services at your doorstep. A feature loaded account that does not require you to maintain any minimum balance in your account. Aarambh savings account has been custom designed for you to receive Government DBT scheme benefits. This account is currently available in selected geographies only.
-KEY FEATURES
-Attractive subscription fee of just Rs 99/- per annum
-No minimum balance maintenance required
-Earn attractive interest rate up to 7.50% with sweep facility#
-Mobile banking access to conveniently manage the account, anywhere and anytime
-Free SMS alerts
-Initial funding of Rs 100/- for account activation
-Overall daily withdrawal limit of up to Rs 2 lakhs
-Free account statement facility through email
-Aadhar seeding facility for direct benefit transfer
+**Aarambh Savings Account**
 
+- Fino Payments Bank Aarambh Savings account has been designed to bring affordable banking services.
+  
+- A feature loaded account that does not require customer to maintain any minimum balance in their account.
+- Aarambh savings account has been custom designed for you to receive Government DBT scheme benefits. This account is currently available in selected geographies only.
 
+**KEY FEATURES**
 
-
-
-
-Bhavishya Savings Account
-
-Bhavishya Savings Account brings you great benefits and features to help your child save and grow while saving money from a very early age. The account comes with a free Platinum RuPay Debit card and no commitment to maintain any minimum monthly average balance, all at a nominal annual subscription charges. Deposit, withdraw, transfer/receive funds, shop, pay bills and do much more with your account without any hassles across India and receive free SMS alerts for each transaction.
-
-KEY FEATURES
-Monthly Average Balance requirement: Nil
-Aadhaar seeding facility to receive scholarship subsidy and other benefits directly in your account
-Mobile Banking access (with view rights) to conveniently manage the account, anywhere and anytime
-Upto 5 free ATM transactions in a month*
-Free cash deposit limit upto Rs.50,000 per month
-Free cash withdrawal at Fino Bank branches
-Free SMS alerts
-
-Jan Savings Account
-
-Jan Savings Account is designed to meet all your banking needs with no commitment to maintain minimum balance in your account. You can access your account anytime, anywhere through our Mobile banking application FinoPay and access to over 1 Lac+ access points to assist you in banking. Deposit, withdraw, transfer/receive funds, shop, pay bills and receive free SMS alerts for each transaction and do much more with your account without any hassles all at nominal annual subscription charges. Enjoy banking, truly at your fingertips!
-KEY FEATURES
-Monthly average balance requirement: Nil
-Rate of interest: Up to INR 2 lakhs is 2.75% p.a. on EOD balance paid quarterly. Earn up to 7.50% p.a by opting for Sweep account facility (T&C Apply)
-Sweep account facility with partner bank for balances over two lakh rupees
-Aadhaar seeding facility to receive LPG subsidy and other benefits directly in the account
-Free limit for AePS transactions in a month: 4 withdrawals & 2 balance enquiries (No free limit on Mini statement); thereafter Rs. 10 per transaction (applicable on Mini statement from first instance)
-Free cash deposit limit upto Rs 50,000 per month; thereafter 0.5% of the transaction amount, min Rs 5
-Free 4 cash withdrawals per month; thereafter 0.5% of the transaction amount, min Rs 5
-Free SMS alerts
-Mobile banking access to conveniently manage the account, anywhere and anytime
+- Attractive subscription fee of just Rs 99/- per annum
+- No minimum balance maintenance required.
+- Earn attractive interest rate up to 7.50% with sweep facility#
+- Mobile banking access to conveniently manage the account, anywhere and anytime
+- Free SMS alerts
+- Initial funding of Rs 100/- for account activation
+- Overall daily withdrawal limit of up to Rs 2 lakhs
+- Free account statement facility through email
+- Aadhar seeding facility for direct benefit transfer
 
 
 
-Current A/C
 
-With Fino Payments Bank Current account you are now on your way to growing your business faster through our simplified banking and the various benefits this account offers.
 
-Sampann Current Account
-Pragati Current A/C
 
-Sampann Current Account
+**Bhavishya Savings Account**
 
-Free cash deposit limit upto Rs.5,00,000 or 25 txns per month.
-Annual Subscription charges for the account: Rs.700 (inclusive of GST).
-Accidental insurance/permanent disability cover of upto Rs.2 Lakhs linked with Rupay Platinum Debit Card.
+Bhavishya Savings Account brings you great benefits and features to help customer's child save and grow while saving money from a very early age. 
+
+The account comes with a free Platinum RuPay Debit card and no commitment to maintain any minimum monthly average balance, all at a nominal annual subscription charges. 
+
+Deposit, withdraw, transfer/receive funds, shop, pay bills and do much more with your account without any hassles across India and receive free SMS alerts for each transaction.
+
+**KEY FEATURES**
+- Monthly Average Balance requirement: Nil
+- Aadhaar seeding facility to receive scholarship subsidy and other benefits directly in your account
+- Mobile Banking access (with view rights) to conveniently manage the account, anywhere and anytime
+- Upto 5 free ATM transactions in a month*
+- Free cash deposit limit upto Rs.50,000 per month.
+- Free cash withdrawal at Fino Bank branches
+- Free SMS alerts
+
+**Jan Savings Account**
+
+Jan Savings Account is designed to meet all your banking needs with no commitment to maintain minimum balance in your account. 
+
+Customer can access their account anytime, anywhere through our Mobile banking application FinoPay and access to over 1 Lac+ access points to assist you in banking. 
+Deposit, withdraw, transfer/receive funds, shop, pay bills and receive free SMS alerts for each transaction and do much more at nominal annual subscription charges. 
+
+**KEY FEATURES**
+- Monthly average balance requirement: Nil
+- Rate of interest: Up to INR 2 lakhs is 2.75% p.a. on EOD balance paid quarterly. Earn up to 7.50% p.a by opting for Sweep account facility (T&C Apply)
+- Sweep account facility with partner bank for balances over two lakh rupees.
+  
+- Aadhaar seeding facility to receive LPG subsidy and other benefits directly in the account
+Free limit for AePS transactions in a month: 4 withdrawals & 2 balance enquiries (No free limit on Mini statement); thereafter Rs. 10 per transaction (applicable on Mini statement from first instance).
+
+- Free cash deposit limit upto Rs 50,000 per month; thereafter 0.5% of the transaction amount, min Rs 5.
+  
+- Free 4 cash withdrawals per month; thereafter 0.5% of the transaction amount, min Rs 5
+Free SMS alerts.
+
+- Mobile banking access to conveniently manage the account, anywhere and anytime
+
+
+
+### **Current A/C**
+
+With Fino Payments Bank Current account customers can   grow their business faster through the simplified banking and the various benefits that account offers.
+
+1. Sampann Current Account
+2. Pragati Current A/C
+
+**Sampann Current Account**
+
+- Free cash deposit limit upto Rs.5,00,000 or 25 txns per month.
+- Annual Subscription charges for the account: Rs.700 (inclusive of GST).
+- Accidental insurance/permanent disability cover of upto Rs.2 Lakhs linked with Rupay Platinum Debit Card.
 
 
 A Visa Platinum debit card offers higher credit limit and exceptional features like extended warranty coverage, price protection, advanced fraud protection measures, and more! Additionally, you get top-quality customer assistance, reward points, complimentary travel insurance, and access to airport lounges.
