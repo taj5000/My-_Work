@@ -335,3 +335,26 @@ With Fino Payments Bank Current account customers can   grow their business fast
 
 
 A Visa Platinum debit card offers higher credit limit and exceptional features like extended warranty coverage, price protection, advanced fraud protection measures, and more! Additionally, you get top-quality customer assistance, reward points, complimentary travel insurance, and access to airport lounges.
+
+### Debit Cards:
+1. Classic Debit Card.
+2. Platinum Debit Card.
+3. Prepaid Card.
+
+
+
+### Payments
+1. Domestic Money Transfer
+2. Bill Payments
+3. Recharge
+4. Aeps
+
+
+
+### Insurance
+
+1. Life Insurance
+2. Health Insurance
+3. Two wheeler Insurance
+4. Shopkeeper Insurance
+   
