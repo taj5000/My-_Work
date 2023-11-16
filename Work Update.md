@@ -343,6 +343,7 @@ A Visa Platinum debit card offers higher credit limit and exceptional features l
 
 
 **Classic Debit Card**
+
 Customer can carry money without carrying currency.
 
 The best-in-class Rupay Classic Debit card to access the account 24x7 through any domestic ATM in India.
