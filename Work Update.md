@@ -384,3 +384,11 @@ These cards offers customers with the freedom of choice to issue a corporate car
 3. Two wheeler Insurance
 4. Shopkeeper Insurance
    
+**Life Insurance**
+- Exide Life insurance
+  . Exide life smart term plan
+  . Exide life jeevan uday
+  . Exide Life Nirmal Jeevan
+
+
+
