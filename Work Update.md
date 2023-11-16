@@ -342,6 +342,32 @@ A Visa Platinum debit card offers higher credit limit and exceptional features l
 3. Prepaid Card.
 
 
+**Classic Debit Card**
+Customer can carry money without carrying currency.
+
+The best-in-class Rupay Classic Debit card to access the account 24x7 through any domestic ATM in India.
+
+**KEY FEATURES**
+- Accessible at over 2 lakh ATMs and over 30 lakh point of sale (POS) terminals in India
+- Daily ATM withdrawal limit of Rs.15,000
+- Daily point of sale (POS) transaction limit of Rs.50,000
+- Exclusive Merchant Offers (POS and Ecom) available on your RuPay debit card. 
+
+**Platinum Debit Card.**
+Platinum Debit card enables customer to enjoy shopping without the need to carry currency. This card offers the higher ATM withdrawal and shopping limits. The card also comes with numerous benefits on shopping.
+
+**KEY FEATURES**
+- Free insurance cover of Rs 2 lakh in case of accidental death/permanent disability due to accident. 
+- Accessible at over 2 lakh ATMs and over 30 lakh point of sale (POS) terminals in India
+- Daily ATM withdrawal limit of Rs.25,000
+- Daily point of sale (POS) transaction limit of Rs.75,000.
+- Eight complimentary airport lounge access per year (2 per quarter)
+- 24x7 concierge services available in English and Hindi
+- Exclusive merchant offers (POS and Ecom) available on your RuPay Debit Card. 
+
+**Prepaid Card**
+These cards offers customers with the freedom of choice to issue a corporate card that allow easy payments to merchants, e-commerce transactions and ATM withdrawals, meal cards that are an ideal replacement for meal coupons, card for reimbursement and rewards and gift cards for all occasions. These easy to use cards are accepted anywhere across India.
+
 
 ### Payments
 1. Domestic Money Transfer
