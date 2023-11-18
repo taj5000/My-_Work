@@ -59,7 +59,7 @@ by NPCI.
 
 **eSign creation process flow**
 
-
+![Alt text](<eSign.png>)
 
 
 
@@ -261,3 +261,4 @@ reason for rejection. It is preferable to send SMS wherever customer has registe
 his mobile number.
 
 **Customer's written consent format**
+![Alt text](<Annexure 1 .png>)
