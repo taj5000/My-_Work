@@ -262,3 +262,13 @@ his mobile number.
 
 **Customer's written consent format**
 ![Alt text](<Annexure 1 .png>)
+
+**3. Aadhaar seeding declaration**
+
+Banks should submit the declaration for having implemented Aadhaar consent
+format designed by IBA to NPCI with regard to seeding of Aadhaar number based on
+the customer consent. Banks will not have access to Aadhaar mapper until the
+declaration is submitted to NPCI as per Annexure VII
+
+**Annexure-VII AADHAAR SEEDING DECLARATION**
+
