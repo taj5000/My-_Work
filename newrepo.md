@@ -1,4 +1,13 @@
-# NACH(National Automated Clearing house)
+# Aadhar based mandate workflow
+#### Table of Content
+- Authentication using eSign
+- eSign creation process
+- eSign E-mandate process in NACH
+- Aadhaar SOP
+- Seeding of Aadhaar numbers in NPCI mapper
+- De-seeding
+- File Format
+- Reseeding
 
 
 ## Authentication using eSign:
@@ -263,8 +272,9 @@ his mobile number.
 **Customer's written consent format**
 ![Alt text](<Annexure 1 .png>)
 
-**3. Aadhaar seeding declaration**
+**Aadhaar seeding declaration**
 ![Alt text](<Annexure VII .png>)
+
 Banks should submit the declaration for having implemented Aadhaar consent
 format designed by IBA to NPCI with regard to seeding of Aadhaar number based on
 the customer consent. Banks will not have access to Aadhaar mapper until the
@@ -284,5 +294,78 @@ Banks are advised to obtain the consent form from customer as per the format giv
 in Annexure II. 
 
 **Annexure II – Format for normal seeding of Aadhaar number with bank**
+
+![Alt text](<Annexure II .png>)
+
+**Facility to check the Aadhaar seeding status**
+
+Banks should make necessary arrangements to enable the staff as well as the
+customer to check the Aadhaar mapping status. Either one or all the methods given
+below can be used to facilitate this
+
+i) The Aadhaar mapper status should be updated in CBS and the staff should be
+able to view the status.
+
+ii) The facility may be extended to the customer through internet banking or
+ATM network or any other alternate channels.
+
+iii) The API facility provided by NPCI should be implemented to provide online
+status to the staff.
+
+iv) Banks staff having access to NACH system can view the mapping status using
+MIS tab.
+
+v) Aadhaar look up facility can be availed from NPCI to ascertain mapping
+status of a batch of Aadhaar numbers.
+
+vi) Aadhaar seeding status enquiry must be made available to the customers
+through AEPS (refer circular no 12 dated February 22, 2019).
+
+**De-seeding**
+In the event of an account, where Aadhaar number is seeded in NPCI for receiving the
+benefits becoming ineligible to receive the credits, the bank should take immediate steps to
+de-seed such an Aadhaar numbers from NPCI mapper. The following are the events that
+should trigger deseeding
+
+**1. Account closed
+2. Account holder expired
+3. Customer insolvent/ Account holder became insane
+4. Account Under Litigation
+5. Account blocked or frozen**
+
+## XML & Text file format
+
+- NPCI can generate either XML / text (TXT) files for member banks. 
+- By default the text file format will be enabled and files will be pushed to banks in TXT format only.
+- In case, banks requires XML format then a request has to be submitted to NPCI for activation of XML files. XML format can be enabled only for ACH 306 format. APB & NACH Debit (156 format) files will be provided in TXT format only.
+
+## Reseeding
+
+a. If a customer whose Aadhaar number is deseeded from NPCI mapper approaches
+the same bank again for seeding his Aadhaar number, the bank should have
+provision for such reseeding.
+
+b. The front desk staff/official should be trained to handle reseeding.
+(Note: Normally the front desk officials verify their CBS and if the Aadhaar
+number is linked to the account of the customer they confirm that the
+Aadhaar is already seeded in NPCI mapper, this may not be a correct)
+
+c. Even if the Aadhaar number is appearing in the CBS, it may be possible that the
+bank has not removed the Aadhaar number from CBS despite deseeding the same
+from NPCI or the Aadhaar number having moved out to another bank.
+
+d. When a request for reseeding is received, the bank should make a provision in the
+CBS to enable the staff to trigger re-seeding process, even though the Aadhaar
+number is already available in the CBS.
+
+e. The process will ensure that the Aadhaar numbers will be downloaded as a part
+of the data files that are sent to NPCI mapper at periodic intervals for seeding.
+
+f. The process detailed in the section ‘seeding’ should be diligently followed for
+reseeding as well.
+
+g. There should be a field to indicate the first seeding and subsequent reseeding
+dates.
+
 
 
