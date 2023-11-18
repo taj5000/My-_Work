@@ -164,11 +164,17 @@ Given below is the document list that defines the standard
 operating procedure to be followed by the member banks for the following activities:
 
 • Join the APB system as a participant
+
 • Seeding the Aadhaar number
+
 • De-seeding the Aadhaar number
+
 • Marking/unmarking OD flag
+
 • Reconciliation between Aadhaar numbers in banks’ CBS with NPCI mapper
+
 • Processing the transactions as a sponsor bank
+
 • Processing the transactions as a destination bank
 
 ### Seeding of Aadhaar numbers in NPCI mapper:
