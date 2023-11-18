@@ -264,11 +264,25 @@ his mobile number.
 ![Alt text](<Annexure 1 .png>)
 
 **3. Aadhaar seeding declaration**
-
+![Alt text](<Annexure VII .png>)
 Banks should submit the declaration for having implemented Aadhaar consent
 format designed by IBA to NPCI with regard to seeding of Aadhaar number based on
 the customer consent. Banks will not have access to Aadhaar mapper until the
 declaration is submitted to NPCI as per Annexure VII
 
 **Annexure-VII AADHAAR SEEDING DECLARATION**
+
+**Customer consent Mandatory**
+It is mandatory for the banks to obtain the consent of the customer either through
+physical form or electronic mode before updating in NPCI mapper. Banks are advised
+to preserve the consent form received from the customer either in physical or
+electronic form. In the event of any customer query or complaint, bank must
+produce the documentary proof of consent given by the customer for Aadhaar
+seeding.
+
+Banks are advised to obtain the consent form from customer as per the format given
+in Annexure II. 
+
+**Annexure II – Format for normal seeding of Aadhaar number with bank**
+
 
