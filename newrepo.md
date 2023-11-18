@@ -269,9 +269,12 @@ reason for rejection. It is preferable to send SMS wherever customer has registe
 his mobile number.
 
 **Customer's written consent format**
+
+
 ![Alt text](<Annexure 1 .png>)
 
 **Aadhaar seeding declaration**
+
 ![Alt text](<Annexure VII .png>)
 
 Banks should submit the declaration for having implemented Aadhaar consent
@@ -294,7 +297,7 @@ in Annexure II.
 
 **Annexure II – Format for normal seeding of Aadhaar number with bank**
 
-![Alt text](<Annexure II .png>)
+![Alt text](<Annexure II.png>)
 
 **Facility to check the Aadhaar seeding status**
 
