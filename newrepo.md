@@ -182,9 +182,9 @@ operating procedure to be followed by the member banks for the following activit
 **Seeding of Aadhaar numbers in NPCI mapper involves two steps:**
 
 **1. Verification of Aadhaar numbers as per banks’ internal policy and linking the same to the
-customer’s account in core banking system of the bank.
+customer’s account in core banking system of the bank.**
 
-2. Seeding the Aadhaar number in NPCI mapper.**
+**2. Seeding the Aadhaar number in NPCI mapper.**
 
 Banks should take utmost care in linking the Aadhaar number to an account and seeding
 in NPCI mapper.** Once the Aadhaar number is seeded, then that account shall become
