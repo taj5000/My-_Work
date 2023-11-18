@@ -148,7 +148,6 @@ end.
 16. ONMAGS Platform in turn redirects the response to Merchant Web Page where customer
 can view the response.
 
-**Diagram**
 
 
 
