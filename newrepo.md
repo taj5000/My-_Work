@@ -275,7 +275,7 @@ his mobile number.
 
 **Aadhaar seeding declaration**
 
-![Alt text](<Annexure VII .png>)
+![Alt text](<Annexure VII.png>)
 
 Banks should submit the declaration for having implemented Aadhaar consent
 format designed by IBA to NPCI with regard to seeding of Aadhaar number based on
