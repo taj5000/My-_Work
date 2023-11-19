@@ -477,9 +477,13 @@ r. No session should be left unreconciled with the settlement report.
 s. After the return session is completed APB system will provide response files to the
 sponsor bank with status of the transactions at record level. The following are the
 possible types of status
+
 i. Successful (flag 1)
+
 ii. Returned (flag 0)
+
 iii. Extended (flag 3)
+
 iv. Rejected (flag 2)
 
 t. Sponsor bank should have the capability to consume the response files and provide
