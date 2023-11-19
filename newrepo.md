@@ -285,7 +285,11 @@ case of unsuccessful seeding the communication should be sent along with the
 reason for rejection. It is preferable to send SMS wherever customer has registered
 his mobile number.
 
-**Customer's written consent format**
+**Aadhar seeding Work Flow**
+
+![Alt text](<Aadhar seeding.png>)
+
+**Annexure I-Customer's written consent format**
 
 
 ![Alt text](<Annexure 1 .png>)
