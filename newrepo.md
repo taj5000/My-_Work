@@ -186,6 +186,11 @@ customer’s account in core banking system of the bank.**
 
 **2. Seeding the Aadhaar number in NPCI mapper.**
 
+~~~
+What is NPCI mapper?
+NPCI mapper is a repository of Aadhaar numbers linked with particular bank and used for the purpose of routing the Aadhaar based payment transactions to the destination banks. The NPCI mapper contains Aadhaar number along with IIN (Issuer Identification Number) of the bank that has seeded the Aadhaar number.
+~~~
+
 Banks should take utmost care in linking the Aadhaar number to an account and seeding
 in NPCI mapper.** Once the Aadhaar number is seeded, then that account shall become
 eligible to receive Direct Benefit Transfers (DBT) credits from the government** or any
@@ -341,11 +346,15 @@ benefits becoming ineligible to receive the credits, the bank should take immedi
 de-seed such an Aadhaar numbers from NPCI mapper. The following are the events that
 should trigger deseeding
 
-**1. Account closed
-2. Account holder expired
-3. Customer insolvent/ Account holder became insane
-4. Account Under Litigation
-5. Account blocked or frozen**
+**1. Account closed**
+
+**2. Account holder expired**
+
+**3. Customer insolvent/ Account holder became insane.**
+
+**4. Account Under Litigation.**
+
+**5. Account blocked or frozen.**
 
 ## XML & Text file format
 
