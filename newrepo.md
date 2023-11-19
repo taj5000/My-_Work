@@ -186,10 +186,10 @@ customer’s account in core banking system of the bank.**
 
 **2. Seeding the Aadhaar number in NPCI mapper.**
 
-~~~
-What is NPCI mapper?
+
+>> What is NPCI mapper?
 NPCI mapper is a repository of Aadhaar numbers linked with particular bank and used for the purpose of routing the Aadhaar based payment transactions to the destination banks. The NPCI mapper contains Aadhaar number along with IIN (Issuer Identification Number) of the bank that has seeded the Aadhaar number.
-~~~
+
 
 Banks should take utmost care in linking the Aadhaar number to an account and seeding
 in NPCI mapper.** Once the Aadhaar number is seeded, then that account shall become
