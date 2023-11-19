@@ -396,3 +396,170 @@ dates.
 
 
 
+
+## Processing the transactions as a sponsor bank
+
+a. Banks should prepare or get the files in the format and size prescribed by NPCI
+from time to time. File format given in Annexure VI
+
+b. Sponsor bank should ensure that the transactions are uploaded with proper
+scheme code and state code.
+
+c. If proper user code is not available, sponsor banks should approach NPCI to get
+the corporate created before the files are uploaded to NACH.
+
+d. The bank will be liable for using incorrect user codes (Circular no. 46 dated Jan
+16, 2019) resulting wrong claims pertaining to charges and incentives lodged by
+NPCI to the Implementing Agencies. In the event of any wrong payment of DBT
+charges and incentive due to usage of incorrect user code the Sponsor bank will
+be liable to make good such losses. NPCI reserves the right to reverse any
+incorrect credit of DBT incentive and charges (irrespective of the bank making 
+remittance of Service Tax/GST and TDS) upon receipt of instruction from the
+originating department.
+
+e. Government departments or the sponsor banks should use the vlookup facility to
+check the seeding status of the Aadhaar number to avoid rejections at the time
+of transaction file upload.
+
+f. It is the responsibility of the sponsor bank to ensure that the data received from
+the department is not tampered with and only correct transaction amount is
+uploaded into NACH system.
+
+g. The bank should first check whether the funds are available or necessary
+arrangement with the department is in place for processing the files.
+
+h. Only if funds or the arrangement is available bank should upload the files into
+NACH system. It is recommended that the bank implement host to host (H2H)
+functionality to automate the process.
+
+i. Upload the Aadhaar based transaction file without the IIN number of the
+destination bank. NACH system has the capability to update the IIN number from
+the mapper database.
+
+i. Note: - in case of wrong IIN being given in the input file, the transaction
+will get rejected.
+
+j. Sponsor bank should have maker/checker concept and provide resources
+accordingly.
+
+k. After the file is authorized by the checker, NACH system after processing the file
+will provide an acknowledgement. This could be positive or negative.
+
+l. The status of the file uploaded should be checked.
+
+m. There should be monitoring mechanism at the bank to ensure verification of the
+status of all the files uploaded and downloaded.
+
+n. The system will show the file status as “Accepted” if processed successfully
+otherwise it will show the file status as “Rejected or Partial”.
+
+o. The file may be rejected fully or partially. Banks should analyse the rejects and
+take corrective action as may be required.
+
+p. After the presentation session is completed the sponsor bank should reconcile the
+amount of the presentation files with the settlement received in the account
+maintained with RBI.
+
+q. In case of any discrepancy in settlement report the bank should first check
+whether any rejected files are left out without remediation and re-upload. If
+further clarification is required the bank officials should get in touch with NPCI 
+for necessary details. This process has to be followed for all the presentation and
+return sessions.
+
+r. No session should be left unreconciled with the settlement report.
+
+s. After the return session is completed APB system will provide response files to the
+sponsor bank with status of the transactions at record level. The following are the
+possible types of status
+i. Successful (flag 1)
+ii. Returned (flag 0)
+iii. Extended (flag 3)
+iv. Rejected (flag 2)
+
+t. Sponsor bank should have the capability to consume the response files and provide
+a final response file to the department who has originated the transactions.
+
+u. In case of returned transactions the consolidated amount should be credited back
+to the account maintained by the department with the bank as per the agreed
+process and timeline with the department concerned.
+
+v. There should be a process to provide a detailed return report in the format
+required by the department concerned.
+
+w. In case of extended transaction, sponsor bank should provide interim status to the
+government department and provide the final response files after the same is
+received on the next working day.
+
+x. Banks should develop capability to handle multiple extensions and to consume
+record level status.
+
+y. In case of APB transactions, the destination bank at the time of submitting the
+response files provide the account number and name of the beneficiary for each
+of the transactions whether successful or returned. This should be an automated
+process.
+
+z. NPCI will share the account number and the name of the beneficiary before
+masking providing the response file to the sponsor bank.
+
+aa. Sponsor bank should be able to share this information with the Government
+departments.
+
+bb.It is mandatory for the destination bank to provide beneficiary name and account
+number for both successful and returned records (for specific reasons only), if the
+specified data is not provided, NACH system will reject such transactions resulting
+in deemed acceptance. Banks should ensure that no transactions will become
+deemed accepted.
+
+## Processing the transactions as a destination bank
+a. Destination banks should seed the Aadhaar number only if the bank has been
+certified by NPCI for participation in APB process.
+
+b. The destination bank should put in place, automated process for processing the
+inward files received through the APB system. The system should be sufficiently
+scaled up to handle peak volume with a head room for another 40% increase in
+volume.
+
+c. The processing capacity to be reviewed on a periodic basis and measures should
+be taken to increase the capacity well in advance.
+
+d. On receipt of the inward file, as a first step the bank should verify the amount of
+inward files against the settlement report received.
+
+e. If there is any discrepancy in the settlement amount, the same should be
+immediately brought to the notice of NPCI helpdesk. The inward processing should
+be taken up only after the discrepancy is resolved.
+
+f. If the settlement amount tallies with the inward amount, then the bank should
+proceed to process the inward files. There should be control points that will allow
+file processing only after settlement reconciliation is confirmed. Under no
+circumstances banks should release the credits to the customers without receiving
+the settlement amount.
+
+g. The bank should make provision in the system to provide the name and the account
+number against each successful or specific returns in Aadhaar based transaction.
+This data should be sent as a part of response file (Refer circular no 12 dated
+August 13, 2019).
+
+h. The destination bank should ensure that all the transactions are processed well in
+time and response files are submitted before the cut-off time specified by NPCI.
+This activity should be completed well in advance with a buffer to cater to any
+eventuality during the processing.
+
+i. Banks should have monitoring mechanism to ensure all the files are uploaded and
+processed in NACH. The acknowledgement files should be consumed by the
+destination bank to ensure that all the response files are uploaded.
+
+j. In case any response file is rejected, the bank should check the reject reasons and
+ensure corrective action and re-upload the files within the session time.
+
+k. After the return session is closed the bank should tally the amount of returned
+transactions with the settlement amount in the settlement report.
+
+l. In case of any discrepancy in settlement report, the bank should first check
+whether any rejected files are left out without remediation and re-upload. If
+further clarification is required, the bank officials should get in touch with NPCI
+for necessary details. This process has to be followed for all the presentation and
+return sessions. No session should be left unreconciled with the settlement after
+receipt of settlement report
+
+
