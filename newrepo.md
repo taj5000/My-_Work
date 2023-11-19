@@ -245,45 +245,45 @@ receive credits, Aadhaar numbers pertaining to such accounts
 should not be seeded with NPCI. Such seeding request should be
 rejected, with the reason for such rejection)**
 
-**i. Bank should have distinct fields in their CBS for updating the Aadhaar number
-submitted for KYC purpose and/or for Aadhaar seeding purpose.**
+i. Bank should have distinct fields in their CBS for updating the Aadhaar number
+submitted for KYC purpose and/or for Aadhaar seeding purpose.
 
-**j. Under no circumstances the Aadhaar number submitted as a part of KYC be seeded
+j. Under no circumstances the Aadhaar number submitted as a part of KYC be seeded
 in NPCI mapper. The seeding should only be subject to explicit consent from
 customer for receiving the Aadhaar based payments and also subject to submission
-of written consent (mandate) by the customer.**
+of written consent (mandate) by the customer.
 
-**k. Based on the purpose for which Aadhaar number is submitted by the customer,
-the bank official should update the number in the relevant field in core banking.**
+k. Based on the purpose for which Aadhaar number is submitted by the customer,
+the bank official should update the number in the relevant field in core banking.
 
-**l. Banks should implement the verhoeff algorithm for checking the validity of the
-Aadhaar numbers.**
+l. Banks should implement the verhoeff algorithm for checking the validity of the
+Aadhaar numbers.
 
-**m. Bank should have automated process with a minimum of one time download of all
+m. Bank should have automated process with a minimum of one time download of all
 Aadhaar numbers submitted for seeding purpose to be uploaded into NPCI mapper.
 It is recommended that banks should have process for multiple download and
-upload into NPCI mapper during the day.**
+upload into NPCI mapper during the day.
 
-**n. The downloaded data should be as per the format specified by NPCI for mapper
+n. The downloaded data should be as per the format specified by NPCI for mapper
 upload (Annexure III). After the seeding file is uploaded, the NPCI mapper will
 provide a response file indicating whether all the records are updated in the
-mapper or some records are rejected.**
+mapper or some records are rejected.
 
-**o. Banks should have monitoring mechanism to verify the response files received
-from Aadhaar mapper and take corrective action at their end.**
+o. Banks should have monitoring mechanism to verify the response files received
+from Aadhaar mapper and take corrective action at their end.
 
-**p. The list of reasons for rejection in Aadhaar mapper is provided in Annexure IV.
-138.**
+p. The list of reasons for rejection in Aadhaar mapper is provided in Annexure IV.
+138.
 
-**q. There should be a provision in CBS to update the status of seeding in NPCI mapper.
+q. There should be a provision in CBS to update the status of seeding in NPCI mapper.
 If the Aadhaar number is rejected by the mapper during the seeding process, the
-reason for the reject should be updated in CBS.**
+reason for the reject should be updated in CBS.
 
-**r. Bank should send a communication to the customer, either through a mail or SMS,
+r. Bank should send a communication to the customer, either through a mail or SMS,
 on seeding of Aadhaar number with seeding date in case of successful seeding. In
 case of unsuccessful seeding the communication should be sent along with the
 reason for rejection. It is preferable to send SMS wherever customer has registered
-his mobile number.**
+his mobile number.
 
 **Customer's written consent format**
 
