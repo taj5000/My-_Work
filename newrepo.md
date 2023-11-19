@@ -402,6 +402,12 @@ dates.
 a. Banks should prepare or get the files in the format and size prescribed by NPCI
 from time to time. File format given in Annexure VI
 
+**Annexure VI – APB File format**
+
+Link: https://www.npci.org.in/PDF/nach/notofied-document/NACH-Procedural-Guidelines-V.6.pdf
+
+Page-158-168
+
 b. Sponsor bank should ensure that the transactions are uploaded with proper
 scheme code and state code.
 
